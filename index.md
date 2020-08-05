@@ -8,3 +8,7 @@ Global observational research networks can provide data for important epidemiolo
 
 These software resources fall in three broad categories
 
+- [Harmonist Data Toolkit](pages/toolkit.rmd)
+- [Harmonist Hub](pages/hub.rmd)
+- [REDCap External Modules](redcap.rmd)
+

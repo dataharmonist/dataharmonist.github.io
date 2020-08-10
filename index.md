@@ -8,13 +8,13 @@ Global observational research networks can provide data for important epidemiolo
 
 Harmonist software resources fall in three categories
 
-- [Harmonist Data Toolkit](pages/toolkit.rmd): A web-based data quality checking, report generation, and dataset transfer application
-- [Harmonist Hub](pages/hub.rmd): An online project management and collaboration portal
-- [REDCap External Modules](redcap.rmd): Publicly available modules used in Harmonist applications
+- [Harmonist Data Toolkit](pages/toolkit.md): A web-based data quality checking, report generation, and dataset transfer application
+- [Harmonist Hub](pages/hub.md): An online project management and collaboration portal
+- [REDCap External Modules](pages/redcap.md): Publicly available modules used in Harmonist applications
 
 ### Resources
-- [Harmonist Presentations](presentations/overview.rmd)
-- [Harmonist hmmm]
+- [Harmonist Presentations](presentations/overview.md)
+- [Harmonist Github Repositories](code.md)
 
 
 

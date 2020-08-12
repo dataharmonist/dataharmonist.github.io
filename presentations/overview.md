@@ -1,10 +1,9 @@
 [<img src="http://dataharmonist.org/logo.png" width="200" />](http://dataharmonist.org)
 
 
-
 ## Harmonist Presentations
-- [TN Center for AIDS Research Presentation, May 2020](2020TNCFAR.pdf)
-- [Guest Lecture, Vanderbilt Biomedical Engineering Global Engineering Course, November 2019](2019GlobalBME.pdf)
-- [International Workshop on HIV and Hepatitis Observational Databases Presentation, March 2019](2019IWHOD.pdf)
+- [TN Center for AIDS Research Presentation, May 2020](2020TNCFAR.pdf){:target="_blank"}
+- [Guest Lecture, Vanderbilt Biomedical Engineering Global Engineering Course, November 2019](2019GlobalBME.pdf){:target="_blank"}
+- [International Workshop on HIV and Hepatitis Observational Databases Presentation, March 2019](2019IWHOD.pdf){:target="_blank"}
 - [Guest Lecture, Nashville Software School](2019NSS.pdf){:target="_blank"}
 

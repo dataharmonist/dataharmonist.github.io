@@ -1,6 +1,6 @@
 [<img src="http://dataharmonist.org/logo.png" width="200" />](http://dataharmonist.org)
 
-<a href="https.dataharmonist.github.io/presentations/2019NSS.pdf" target="_blank">PDF.</a>
+
 
 ## Harmonist Presentations
 - [TN Center for AIDS Research Presentation, May 2020](http://dataharmonist.org/presentations/2020TNCFAR.pdf)

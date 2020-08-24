@@ -9,6 +9,6 @@
 
 ## Harmonist Instructional Videos
 - [Introduction to Harmonist Hub](https://www.youtube.com/watch?v=wwPQW1TKN0Q){:target="_blank"}
-- <iframe src="https://vumc.app.box.com/embed/s/mgmwtw1ns8e25dl4znp6lwyck9nr80k4?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+- <iframe src="https://vumc.app.box.com/embed/s/mgmwtw1ns8e25dl4znp6lwyck9nr80k4?sortColumn=date&view=list" width="330" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>{:target="_blank"}
 
 

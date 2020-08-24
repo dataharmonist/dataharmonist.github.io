@@ -10,7 +10,7 @@ Harmonist software resources fall in three categories
 
 - [Harmonist Data Toolkit](pages/toolkit.md): A web-based data quality checking, report generation, and dataset transfer application
 - [Harmonist Hub](pages/hub.md): An online project management and collaboration portal
-- [REDCap External Modules](pages/redcap.md): Publicly available modules used in Harmonist applications
+- [REDCap External Modules](pages/externalmodules.md): Publicly available modules used in Harmonist applications
 
 ### Resources
 - [Harmonist Presentations](presentations/overview.md)

@@ -9,6 +9,7 @@
 
 ## Harmonist Instructional Videos
 - [Introduction to Harmonist Hub](https://www.youtube.com/watch?v=wwPQW1TKN0Q){:target="_blank"}
-- <iframe src="https://vumc.app.box.com/embed/s/mgmwtw1ns8e25dl4znp6lwyck9nr80k4?sortColumn=date&view=list" width="330" height="250" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>{:target="_blank"}
-
+- [Requesting Data in the Harmonist Hub](https://youtu.be/D-3xelbxTaw){:target="_blank"}
+- [Checking and Submitting Datasets with the Harmonist Toolkit](https://youtu.be/8fDS53zm5pE){:target="_blank"}
+- [Retrieving Datasets through the Harmonist Hub](https://youtu.be/qQRhJ8IwYwc){:target="_blank"}
 

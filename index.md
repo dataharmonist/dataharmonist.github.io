@@ -13,7 +13,7 @@ Harmonist software resources fall in three categories
 - [REDCap External Modules](pages/externalmodules.md): Publicly available modules used in Harmonist applications
 
 ### Resources
-- [Harmonist Presentations](presentations/overview.md)
+- [Harmonist Presentations and Tutorials](presentations/overview.md)
 - [Harmonist Github Repositories](code.md)
 
 

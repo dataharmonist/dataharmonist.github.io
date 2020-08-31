@@ -1,4 +1,4 @@
-![Harmonist Logo](logo.png){:height="50%" width="50%"}
+![Harmonist Logo](logo.png){:height="75%" width="75%"}
 
 ## Informatics Solutions for Data Harmonization in Global Research Networks
 

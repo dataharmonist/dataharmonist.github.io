@@ -15,7 +15,7 @@ Harmonist software resources fall in three categories
 ### Resources
 - [Harmonist Presentations and Tutorials](presentations/overview.md)
 - [Harmonist Github Repositories](code.md)
-- [Harmonist Team](pages/team.md)
+- [Contact Harmonist Team](pages/team.md)
 
 
 

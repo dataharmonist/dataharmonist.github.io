@@ -12,4 +12,5 @@
 - [Requesting Data in the Harmonist Hub](https://youtu.be/D-3xelbxTaw){:target="_blank"}
 - [Checking and Submitting Datasets with the Harmonist Toolkit](https://youtu.be/8fDS53zm5pE){:target="_blank"}
 - [Retrieving Datasets through the Harmonist Hub](https://youtu.be/qQRhJ8IwYwc){:target="_blank"}
+- [Demonstration of Harmonist Data Toolkit for IeDEA](https://www.youtube.com/watch?v=pL_RRhvzX-w){:target="_blank"}
 

@@ -2,6 +2,7 @@
 
 
 ## Harmonist Presentations
+- [R/Medicine 2021 Conference Presentation, August 2021](https://www.youtube.com/watch?v=14TJ3VqWAC0){:target="_blank"}
 - [TN Center for AIDS Research Presentation, May 2020](2020TNCFAR.pdf){:target="_blank"}
 - [Guest Lecture, Vanderbilt Biomedical Engineering Global Engineering Course, November 2019](2019GlobalBME.pdf){:target="_blank"}
 - [International Workshop on HIV and Hepatitis Observational Databases Presentation, March 2019](2019IWHOD.pdf){:target="_blank"}

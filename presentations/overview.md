@@ -2,7 +2,7 @@
 
 
 ## Harmonist Presentations
-- [NIH-NIAID Data Science Seminar, October 2021](NIAID Data Science Seminar - 01Oct2021 - for sharing.pdf){:target="_blank"}
+- [NIH-NIAID Data Science Seminar, October 2021](NIAIDSeminar01Oct2021.pdf){:target="_blank"}
 - [MedInfo 2021 Conference Presentation on IeDEA Africa Treat All Dashboard Aggregations](https://www.youtube.com/watch?v=qK9WP5V9Ts8){:target="_blank"}
 - [R/Medicine 2021 Conference Presentation, August 2021](https://www.youtube.com/watch?v=14TJ3VqWAC0){:target="_blank"}
 - [TN Center for AIDS Research Presentation, May 2020](2020TNCFAR.pdf){:target="_blank"}
